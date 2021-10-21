@@ -1,0 +1,1 @@
+In this project, I am building a recipe website using just html without any styling or scripts. Just pure html.
